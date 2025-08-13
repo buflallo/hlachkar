@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: flask-api
-        image: buflallo/simple-flask-api:v1
+        image: buflallo/simple-flask-api:v2
